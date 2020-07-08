@@ -112,3 +112,4 @@ for(let game of worriorsGames)
   
 }
 document.body.prepend(ulParent);
+//using javaScript
